@@ -2,7 +2,6 @@
 
 <!--
 **iqdecay/iqdecay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitBlend Contributions](https://gitblend.com/api/contributions?username=iqdecay)
